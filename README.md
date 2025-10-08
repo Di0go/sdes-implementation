@@ -1,6 +1,6 @@
 # 🧩 S-DES Implementation in Python
 
-A small, from-scratch implementation of the **Simplified Data Encryption Standard (S-DES)** for learning and résumé demonstration.  
+A from-scratch implementation of the **Simplified Data Encryption Standard (S-DES)** for learning and résumé demonstration.  
 Developed for my Applied Cryptography class — clear, readable code that shows the internal steps of a symmetric cipher.
 
 ---
